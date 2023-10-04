@@ -30,3 +30,11 @@ are hit.
 • Second level(Extra level): Redrew the screen using loops and multiple sw statements.
 • Multiple hits: Based on the color either change the color of the brick or delete it entirely.
 
+![image](https://github.com/HumzAIqbal67/AtariBreakOut/assets/72030814/2ae39c71-7aae-4aab-be19-059d43b185e5)
+
+![image](https://github.com/HumzAIqbal67/AtariBreakOut/assets/72030814/c987db55-5500-47b9-9579-634216cb5e3c)
+
+
+
+
+
